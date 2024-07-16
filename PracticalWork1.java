@@ -29,7 +29,3 @@ public class PracticalWork1 {
 	}
 
 }
-
-//Izveidot metodi showRectangleInfo(), kam tiek padoti abu taisnstūra malu garumi.
-//Izdrukāt metodē masīva perimetru, laukumu un faktu, ka taisnstūris ir kvadrāts (ja
-//tā ir).
